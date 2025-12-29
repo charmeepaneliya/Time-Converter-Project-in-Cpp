@@ -4,8 +4,8 @@
 -------------------------
 
 This project contains two simple C++ programs that demonstrate time conversion using Object-Oriented Programming (OOP) concepts.
-
 The programs are designed for beginners to easily understand how classes, objects, and basic arithmetic operations work in real C++ programs.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Learning Objectives
@@ -42,6 +42,7 @@ Output:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔹 Program 2: Convert Total Seconds to HH:MM:SS
+------------------------------------------------------
 
 This program takes total seconds as input and converts them into hours, minutes, and seconds format.
 
